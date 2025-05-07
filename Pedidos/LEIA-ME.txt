@@ -1,0 +1,5 @@
+PORTUGUÊS
+Os arquivos convertidos pelo script em PowerShell virão para esta pasta.
+
+ENGLISH
+The files exported via PowerShell script will be saved in this folder
