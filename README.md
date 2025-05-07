@@ -151,9 +151,8 @@ PDF-to-TIFF-Pipeline/
 │   └── pipeline.ps1           # Main PowerShell script
 ├── PerfisICC/
 │   └── USWebCoatedSWOP.icc    # CMYK color profile
-├── tratamento/                # Input folder for raw PDFs
-├── pedidos/                   # Output folder with final files
-├── exemplos/                  # Screenshots / before-and-after
+├── Tratamento/                # Input folder for raw PDFs
+├── Pedidos/                   # Output folder with final files
 ├── README.md
 ```
 
