@@ -38,9 +38,8 @@ PDF-to-TIFF-Pipeline/
 │   └── pipeline.ps1           # Script principal em PowerShell
 ├── PerfisICC/
 │   └── USWebCoatedSWOP.icc    # Perfil CMYK utilizado
-├── tratamento/                # Pasta de entrada de arquivos PDF
-├── pedidos/                   # Pasta de saída com os arquivos prontos
-├── exemplos/                  # Prints e antes/depois
+├── Tratamento/                # Pasta de entrada de arquivos PDF
+├── Pedidos/                   # Pasta de saída com os arquivos prontos
 ├── README.md
 ```
 
