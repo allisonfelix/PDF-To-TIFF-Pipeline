@@ -104,6 +104,19 @@ Da mesma forma, scripts em **Photoshop (ExtendScript/JSX)** requerem que os arqu
 
 ---
 
+## 🐍 Complemento Python
+
+Como parte da evolução do pipeline, implementamos uma versão complementar em Python com recursos adicionais como:
+
+- Conversão de texto em curvas via `mutool`;
+- Verificação de proporção do PDF (máx. 10:1);
+- Cálculo de resolução automática com base na área em cm²;
+- Geração de logs com fontes ausentes ou PDFs corrompidos.
+
+📂 Repositório: [pdf-to-tiff-python](https://github.com/allisonfelix/PDF-To-TIFF-Python)
+
+---
+
 ## 🤝 Créditos
 
 Desenvolvido por [Allison dos Santos Felix](https://linkedin.com/in/allison-dos-santos-felix-743814a2), Analista de Sistemas Jr. com especialização em automações gráficas, pipelines híbridos e integração entre áreas técnicas e criativas.
@@ -202,6 +215,21 @@ Likewise, scripting with **Photoshop (ExtendScript/JSX)** requires files to be m
 - Integrate with existing CorelDRAW VBA macros to complete the production pipeline  
 - Add logging and reporting (CSV or dashboard format)  
 - Explore a Python-based version as a performance study
+
+---
+
+## 🐍 Python Complement
+
+As part of the pipeline evolution, we've developed a complementary version in Python, featuring advanced capabilities such as:
+
+- Text-to-outline conversion using `mutool`;
+- Aspect ratio check (skips PDFs with proportions above 10:1);
+- Dynamic resolution calculation based on page area in cm²;
+- Logging of missing fonts and corrupted/incomplete PDFs.
+
+📂 Repository: [pdf-to-tiff-python](https://github.com/allisonfelix/PDF-To-TIFF-Python)
+
+---
 
 ## 🤝 Credits
 
