@@ -9,7 +9,7 @@ Este projeto automatiza o processo de conversão de arquivos PDF enviados por cl
 
 ## 🧩 Contexto do Problema
 
-Na **Graficonauta**, operávamos com um fluxo ineficiente onde operadores de pré-impressão precisavam:
+Na gráfica em que foi implementado este projeto, operávamos com um fluxo ineficiente onde operadores de pré-impressão precisavam:
 - Abrir **manualmente PDFs página a página no Photoshop**;
 - Exportar cada página como TIFF com ajustes manuais de DPI e perfil CMYK;
 - Criar pastas e mover os arquivos manualmente para o fluxo de produção.
